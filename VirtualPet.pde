@@ -9,7 +9,7 @@ void draw()
   background(0,100,150);
   noStroke();
   fill(235,190,0);
-  ellipse(250,200,75/10,75/10);
+  ellipse(250,200,75,75);
   fill(255,255,255);
   arc(250,200,75,75,0,PI,OPEN);
   //eyeball + mouth
